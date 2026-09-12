@@ -1,0 +1,6 @@
+{
+  "name": "CohortX Video Gallery",
+  "description": "A standalone educational video gallery featuring presentations from the MICCAI 2026 CohortX Challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
